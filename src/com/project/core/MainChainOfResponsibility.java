@@ -7,9 +7,11 @@ import java.math.BigDecimal;
 
 public class MainChainOfResponsibility {
 
+    /**
     public static void main(String[] args) {
         solution();
     }
+    */
 
     public static void solution() {
         Budget budget = new Budget(new BigDecimal("600"), 6);
